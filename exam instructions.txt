@@ -1,0 +1,16 @@
+Special Instructions For Exam:
+1. Make sure git is installed on your machine
+2. Create private repo name called tbcl32019it.git on github
+3. Share the repo with me ie. developerdrp
+4. Design the webpage by using html and css as Lab Test - l3 II sem 2019 Section A and B.pdf given
+5. Push your all data to the tbcl32019it.
+
+
+==================================
+
+Assignment Submittion Instructions
+1. Make Assignment root folder
+2. Create the subfolder with assignment#no
+3. add the respected content to the respected folders
+4. make private itassignment.git and share with me.
+
